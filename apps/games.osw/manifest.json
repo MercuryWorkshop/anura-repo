@@ -1,0 +1,20 @@
+{
+    "name": "osu!",
+    "icon": "osu.svg",
+    "summary": "A free to play rhythm game",
+    "desc": "A port of the game osu! for the web browser.",
+    "package": "games.osw",
+    "data": "app.zip",
+    "screenshots": [
+      {
+        "path": "screenshots/something.png",
+        "desc": "(screenshot desc)" 
+      },
+      {
+        "path": "screenshots/something2.png",
+        "desc": "(screenshot desc)" 
+      }
+    ],
+    "version": "1.0.0",
+    "category": "game"
+}
