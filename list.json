@@ -3,28 +3,28 @@
         {
             "name": "osu!",
             "icon": "icons/osu.svg",
-            "desc": "A free to play rhythm game",
+            "desc": "The hit rhythm game, now on Anura!",
             "data": "apps/osu.app.zip",
             "category": "game"
         },
         {
             "name": "run 3",
             "icon": "icons/run.png",
-            "desc": "A 3D platformer",
+            "desc": "A classic Flash 3D platformer featuring a plethora of levels",
             "data": "apps/run.app.zip",
             "category": "game"
         },
         {
             "name": "Flash Plugin",
             "icon": "icons/flash.svg",
-            "desc": "A plugin to run SWF Files",
+            "desc": "A plugin to run SWF Files inside of AnuraOS",
             "data": "apps/flash.app.zip",
             "category": "plugin"
         },
         {
             "name": "Touhou 4",
             "icon": "icons/th4.png",
-            "desc": "Port of Lotus Land Story",
+            "desc": "Port of Touhou 4: Lotus Land Story",
             "data": "apps/th4e.app.zip",
             "category": "game"
         }
