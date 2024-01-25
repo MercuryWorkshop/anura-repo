@@ -3,7 +3,7 @@
         {
             "name": "osu!",
             "icon": "icons/osu.svg",
-            "desc": "The hit rhythm game, now on Anura!",
+            "desc": "The hit rhythm game, now on Anura",
             "data": "apps/osu.app.zip",
             "category": "game"
         },
