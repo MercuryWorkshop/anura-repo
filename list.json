@@ -8,6 +8,13 @@
             "category": "game"
         },
         {
+            "name": "Discord!",
+            "icon": "icons/discord.png",
+            "desc": "iFramed version of discord to work with hcaptcha",
+            "data": "apps/discord.app.zip",
+            "category": "app"
+        },
+        {
             "name": "run 3",
             "icon": "icons/run.png",
             "desc": "A classic Flash 3D platformer featuring a plethora of levels",
