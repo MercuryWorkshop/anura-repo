@@ -8,7 +8,7 @@
             "category": "game"
         },
         {
-            "name": "Discord!",
+            "name": "Discord",
             "icon": "icons/discord.png",
             "desc": "iFramed version of discord to work with hcaptcha",
             "data": "apps/discord.app.zip",
