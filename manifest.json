@@ -1,8 +1,8 @@
 {
-	"maintainer": {
-		"email": "support@mercurywork.shop",
-		"website": "https://mercurywork.shop",
-        "name": "Mercury Workshop"
-	},
-    "version": "2.0.0"
+  "maintainer": {
+    "name": "Mercury Workshop",
+    "email": "support@mercurywork.shop",
+    "website": "mercurywork.shop"
+  },
+  "version": "2.0.0"
 }

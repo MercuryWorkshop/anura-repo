@@ -4,7 +4,7 @@
     "summary": "A plugin to run SWF Files",
     "desc": "An anura plugin that adds a file handler for SWF Files",
     "package": "anura.flash.handler",
-    "data": "app.zip",
+    "data": "lib.zip",
     "screenshots": [
       {
         "path": "screenshots/something.png",

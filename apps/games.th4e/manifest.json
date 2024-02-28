@@ -2,7 +2,7 @@
     "name": "Touhou 4",
     "icon": "th4.png",
     "summary": "Port of Lotus Land Story",
-    "desc": "A simple 3D platformer where you run through space",
+    "desc": "Port of Touhou 4: Lotus Land Story for Anura",
     "package": "games.th4e",
     "data": "app.zip",
     "screenshots": [
