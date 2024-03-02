@@ -1,39 +1,106 @@
 {
-    "apps": [
+  "apps": [
+    {
+      "name": "Discord",
+      "icon": "discord.png",
+      "summary": "An anura app for the popular chat app",
+      "desc": "iFramed version of discord to work with hcaptcha",
+      "package": "discord.app",
+      "data": "app.zip",
+      "screenshots": [
         {
-            "name": "osu!",
-            "icon": "icons/osu.svg",
-            "desc": "The hit rhythm game, now on Anura",
-            "data": "apps/osu.app.zip",
-            "category": "game"
+          "path": "screenshots/something.png",
+          "desc": "(screenshot desc)"
         },
         {
-            "name": "Discord",
-            "icon": "icons/discord.png",
-            "desc": "iFramed version of discord to work with hcaptcha",
-            "data": "apps/discord.app.zip",
-            "category": "app"
-        },
-        {
-            "name": "run 3",
-            "icon": "icons/run.png",
-            "desc": "A classic Flash 3D platformer featuring a plethora of levels",
-            "data": "apps/run.app.zip",
-            "category": "game"
-        },
-        {
-            "name": "Flash Plugin",
-            "icon": "icons/flash.svg",
-            "desc": "A plugin to run SWF Files inside of AnuraOS",
-            "data": "apps/flash.app.zip",
-            "category": "plugin"
-        },
-        {
-            "name": "Touhou 4",
-            "icon": "icons/th4.png",
-            "desc": "Port of Touhou 4: Lotus Land Story",
-            "data": "apps/th4e.app.zip",
-            "category": "game"
+          "path": "screenshots/something2.png",
+          "desc": "(screenshot desc)"
         }
-    ]
+      ],
+      "version": "1.0.0",
+      "category": "chat"
+    },
+    {
+      "name": "osu!",
+      "icon": "osu.svg",
+      "summary": "A free to play rhythm game",
+      "desc": "A port of the game osu! for the web browser.",
+      "package": "games.osw",
+      "data": "app.zip",
+      "screenshots": [
+        {
+          "path": "screenshots/splashscreen.png",
+          "desc": ""
+        },
+        {
+          "path": "screenshots/mainmenu.png",
+          "desc": ""
+        }
+      ],
+      "version": "1.0.0",
+      "category": "game"
+    },
+    {
+      "name": "run 3",
+      "icon": "run.png",
+      "summary": "A 3D platformer",
+      "desc": "A simple 3D platformer where you run through space",
+      "package": "games.run3",
+      "data": "app.zip",
+      "screenshots": [
+        {
+          "path": "screenshots/something.png",
+          "desc": "(screenshot desc)"
+        },
+        {
+          "path": "screenshots/something2.png",
+          "desc": "(screenshot desc)"
+        }
+      ],
+      "version": "1.0.0",
+      "category": "game"
+    },
+    {
+      "name": "Touhou 4",
+      "icon": "th4.png",
+      "summary": "Port of Lotus Land Story",
+      "desc": "Port of Touhou 4: Lotus Land Story for Anura",
+      "package": "games.th4e",
+      "data": "app.zip",
+      "screenshots": [
+        {
+          "path": "screenshots/something.png",
+          "desc": "(screenshot desc)"
+        },
+        {
+          "path": "screenshots/something2.png",
+          "desc": "(screenshot desc)"
+        }
+      ],
+      "version": "1.0.0",
+      "category": "game"
+    }
+  ],
+  "libs": [
+    {
+      "name": "Flash",
+      "icon": "flash.svg",
+      "summary": "A plugin to run SWF Files",
+      "desc": "An anura plugin that adds a file handler for SWF Files",
+      "package": "anura.flash.handler",
+      "data": "lib.zip",
+      "screenshots": [
+        {
+          "path": "screenshots/something.png",
+          "desc": "(screenshot desc)"
+        },
+        {
+          "path": "screenshots/something2.png",
+          "desc": "(screenshot desc)"
+        }
+      ],
+      "version": "1.0.0",
+      "category": "plugin"
+    }
+  ]
 }
