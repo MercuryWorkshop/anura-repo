@@ -1,0 +1,10 @@
+{
+    "name": "VNC Client",
+    "icon": "vnc.png",
+    "summary": "A VNC client powered by wsproxy",
+    "desc": "A VNC client powered by wsproxy, for use in anura.",
+    "package": "anura.vnc",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "Utility"
+}

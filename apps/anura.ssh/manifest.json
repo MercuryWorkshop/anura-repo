@@ -1,0 +1,10 @@
+{
+    "name": "SSH",
+    "icon": "ssh.png",
+    "summary": "A SSH client powered by wsproxy",
+    "desc": "A SSH client powered by wsproxy",
+    "package": "anura.SSH",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "Utility"
+}

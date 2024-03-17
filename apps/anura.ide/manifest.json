@@ -1,0 +1,10 @@
+{
+    "name": "chIDE",
+    "icon": "visual-studio-code.svg",
+    "summary": "The one and only anura IDE",
+    "desc": "The one and only anura IDE, made specifically for user experience and ease of use.",
+    "package": "anura.ide",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "Utility"
+}

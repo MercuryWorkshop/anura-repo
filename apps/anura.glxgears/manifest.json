@@ -1,0 +1,10 @@
+{
+    "name": "glxgears",
+    "icon": "glxicon.png",
+    "summary": "The hit game, now on Anura",
+    "desc": "One of the most critically acclaimed games, now on Anura.",
+    "package": "anura.glxgears",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "game"
+}
