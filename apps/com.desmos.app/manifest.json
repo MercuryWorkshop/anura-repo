@@ -1,0 +1,10 @@
+{
+    "name": "Desmos Graphing Calculator",
+    "icon": "icon.png",
+    "summary": "A popular web graphing calculator.",
+    "desc": "One of the most popular web graphing calculators, now in anura.",
+    "package": "com.desmos.app",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "Utility"
+}

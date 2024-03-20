@@ -1,6 +1,16 @@
 {
   "apps": [
     {
+      "name": "SSH",
+      "icon": "ssh.png",
+      "summary": "A SSH client powered by wsproxy",
+      "desc": "A SSH client powered by wsproxy",
+      "package": "anura.SSH",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Utility"
+    },
+    {
       "name": "glxgears",
       "icon": "glxicon.png",
       "summary": "The hit game, now on Anura",
@@ -21,21 +31,21 @@
       "category": "Utility"
     },
     {
-      "name": "SSH",
-      "icon": "ssh.png",
-      "summary": "A SSH client powered by wsproxy",
-      "desc": "A SSH client powered by wsproxy",
-      "package": "anura.SSH",
-      "data": "app.zip",
-      "version": "1.0.0",
-      "category": "Utility"
-    },
-    {
       "name": "VNC Client",
       "icon": "vnc.png",
       "summary": "A VNC client powered by wsproxy",
       "desc": "A VNC client powered by wsproxy, for use in anura.",
       "package": "anura.vnc",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Utility"
+    },
+    {
+      "name": "Desmos Graphing Calculator",
+      "icon": "icon.png",
+      "summary": "A popular web graphing calculator.",
+      "desc": "One of the most popular web graphing calculators, now in anura.",
+      "package": "com.desmos.app",
       "data": "app.zip",
       "version": "1.0.0",
       "category": "Utility"
