@@ -1,0 +1,10 @@
+{
+    "name": "Snae Player",
+    "icon": "icon.png",
+    "summary": "A music client ported to Anura",
+    "desc": "A music client ported to Anura",
+    "package": "anura.music",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "Utility"
+  }

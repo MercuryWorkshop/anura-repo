@@ -31,6 +31,16 @@
       "category": "Utility"
     },
     {
+      "name": "Snae Player",
+      "icon": "icon.png",
+      "summary": "A music client ported to Anura",
+      "desc": "A music client ported to Anura",
+      "package": "anura.music",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "Utility"
+    },
+    {
       "name": "VNC Client",
       "icon": "vnc.png",
       "summary": "A VNC client powered by wsproxy",
@@ -149,7 +159,7 @@
           "desc": "(screenshot desc)"
         }
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "plugin"
     }
   ]
