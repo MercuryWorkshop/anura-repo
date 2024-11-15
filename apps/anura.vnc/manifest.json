@@ -5,6 +5,6 @@
     "desc": "A VNC client powered by wsproxy, for use in anura.",
     "package": "anura.vnc",
     "data": "app.zip",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "category": "Utility"
 }
