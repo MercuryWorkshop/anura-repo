@@ -81,16 +81,6 @@
       "category": "chat"
     },
     {
-      "name": "Anura Debugger",
-      "icon": "terminal.svg",
-      "summary": "Anura Debugger",
-      "desc": "Port of Chii/Chrome Inspect Element to anuraOS. WARNING: Package has a large amount of files and takes a while to install if you have a slow storage device.",
-      "package": "anura.debugger",
-      "data": "app.zip",
-      "version": "1.0.0",
-      "category": "Utility"
-    },
-    {
       "name": "run 3",
       "icon": "run.png",
       "summary": "A 3D platformer",
