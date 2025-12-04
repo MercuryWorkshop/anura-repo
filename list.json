@@ -119,7 +119,17 @@
       ],
       "version": "1.0.0",
       "category": "game"
-    }
+    },
+    {
+      "name": "AnuraFlake",
+      "icon": "image.png",
+      "summary": "An anura tor client.",
+      "desc": "Uses the real tor compiled to emscripten and snowflake. Works without wisp!",
+      "package": "shop.mercurywork.tor",
+      "data": "app.zip",
+      "version": "1.0.0",
+      "category": "networking"
+    },
   ],
   "libs": [
     {
