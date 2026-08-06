@@ -1,0 +1,10 @@
+{
+    "name": "Firefox",
+    "icon": "logo.webp",
+    "summary": "A popular web web browser.",
+    "desc": "The independent browser that has your back.",
+    "package": "com.mozilla.firefox",
+    "data": "app.zip",
+    "version": "1.0.0",
+    "category": "Utility"
+}
